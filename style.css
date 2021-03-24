@@ -870,6 +870,9 @@ footer i:hover{
     color:var(--yell-col);
 
 }
+.work-color{
+    color: var(--primary-color);
+}
 @keyframes showmessage {
     0%{opacity: 0;
         transform: scale(0);
