@@ -407,7 +407,7 @@ position: relative;
 }
 .testing-box-1{
     background: linear-gradient(to right bottom,
-    rgb(240,50,67),
+    rgb(65, 165, 166),
    rgba(230,157,49, 0.5)),
    url(img/break.jpg) no-repeat center;
    background-size: cover;
@@ -417,8 +417,8 @@ position: relative;
 }
 .testing-box-2{ 
     background: linear-gradient(to right bottom,
-    rgb(38, 191, 17),
-    rgba(38, 191, 17,.5)),
+    rgba(250,157,39,.5),
+    rgba(250,157,39,.9)),
    url(img/test-break.jpg) no-repeat center;
    background-size: cover;
     right: 0;
@@ -432,8 +432,8 @@ position: relative;
 
 .testing-box-3{
     background: linear-gradient(to right bottom,
-    rgb(50,134,240),
-   rgba(50,134,240, 0.5)),
+    rgb(59, 89, 120),
+    rgb(65, 165, 166)),
    url(img/bgg.jpg) no-repeat center;
    background-size: cover;
     left: 20%;
